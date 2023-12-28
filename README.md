@@ -7,7 +7,7 @@ Study_html 프로젝트를 소개 합니다.
 3.프로젝트 멤버
 
 ## 프로젝트 컴셉
-![lorem picsum](https://picsum.potos/200/300)
+![lorem picsum](https://picsum.photos/200/300)
 ---
 ### 클라이언트
 고객사 A 에게 업무 의뢰를 했다고 가정 하고...
