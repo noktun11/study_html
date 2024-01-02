@@ -38,3 +38,20 @@
 div {
   background-color: gold;
 }
+.bg-gold{
+  background-color: gold;;
+  }
+.bg-lime{
+  background-color: lime;
+}
+.box{
+  width: 300px;
+  height: 400px;
+}
+.display-block{
+  display: block;
+}
+.display-inlineblock{
+  display: block;
+}
+}
